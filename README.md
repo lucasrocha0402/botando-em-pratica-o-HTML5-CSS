@@ -25,4 +25,4 @@ Alguns exercícios de html5 e css
 
 -O decimo segundo exercício mostra o uso do css interno, ou seja na tag head.
 
--O decimo terceiro exercício já mostra a forma correta de se utilizar o css usando ele em outro arquivo e só o importando.
+-O decimo quarto exercício já mostra a forma correta de se utilizar o css usando ele em outro arquivo e só o importando.
